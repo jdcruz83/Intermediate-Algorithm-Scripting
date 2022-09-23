@@ -3,7 +3,7 @@ Note: You can return the array with its elements in any order.*/
 
 function diffArray(arr1, arr2) {
     let newArr = [];
-    let newArr1 = arr1.filter(a => !arr2.includes(a))
+    let newArr1 = arr1.filter(a => !arr2.includes(a));
     let newArr2 = arr2.filter(a => !arr1.includes(a));
     newArr = newArr1.concat(newArr2);
     return newArr;
