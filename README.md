@@ -1,2 +1,3 @@
 # Intermediate Algorithm Scripting
- Intermediate Algorithm Scripting - freeCodeCamp
+exercices from freeCodeCamp's course JavaScript Algorithms and Data Structures 
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
